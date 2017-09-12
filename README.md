@@ -38,6 +38,6 @@ _The guide is created in order of better understanding of underlying structure a
 
 ###### Useful extensions:
 
-https://github.com/zalmoxisus/redux-devtools-extension
+* *Track state during debug*: https://github.com/zalmoxisus/redux-devtools-extension
 
 
