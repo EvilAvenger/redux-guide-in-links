@@ -1,5 +1,5 @@
-###Links to different Redux-related sources/articles/repos.
-The guide is created in order of better understanding of underlying structure and methodology
+### Links to different Redux-related sources/articles/repos.
+_The guide is created in order of better understanding of underlying structure and methodology_
 
 ###### Redux repo: 
 
