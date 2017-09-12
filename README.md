@@ -4,6 +4,10 @@ _The guide is created in order of better understanding of underlying structure a
 ###### Redux repo: 
 
 * *Repo*: https://github.com/ngrx/store#introduction
+* *Redux official guide*: http://redux.js.org/
+* *Redux official video*: https://egghead.io/courses/getting-started-with-redux
+* *Redux extended video course*: https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+
 
 ###### Typescript advanced features to use:
 
