@@ -17,9 +17,9 @@
 * *router*: https://github.com/ngrx/router-store 
 * *effects*: https://github.com/ngrx/effects/blob/master/docs/api.md#run
 
-###### Example app: 
+###### Example app:
 ==========
-*Repository*: https://github.com/ngrx/example-app
+* *Repository*: https://github.com/ngrx/example-app
 
 ###### After app: 
 ==========
