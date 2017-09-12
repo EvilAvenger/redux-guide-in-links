@@ -1,7 +1,7 @@
 ### Links to different Redux-related sources/articles/repos.
 _The guide is created in order of better understanding of underlying structure and methodology_
 
-###### Redux repo: 
+#### Redux repo: 
 
 * *Repo*: https://github.com/ngrx/store#introduction
 * *Redux official guide*: http://redux.js.org/
