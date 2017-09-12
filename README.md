@@ -19,7 +19,7 @@
 
 ###### Example app: 
 ==========
-https://github.com/ngrx/example-app
+*Repository*: https://github.com/ngrx/example-app
 
 ###### After app: 
 ==========
