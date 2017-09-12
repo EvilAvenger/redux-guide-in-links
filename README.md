@@ -8,12 +8,12 @@ _The guide is created in order of better understanding of underlying structure a
 * *Redux official video*: https://egghead.io/courses/getting-started-with-redux
 * *Redux extended video course*: https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 
-
 ###### Typescript advanced features and other nuances to use:
 
 * *Actions in Redux*: https://www.typescriptlang.org/docs/handbook/advanced-types.html#discriminated-unions
 * *Deep freeze*: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze
 * *Not mutating operations*: http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/
+  ** There is an example of mutators in video by link: https://egghead.io/lessons/javascript-redux-avoiding-array-mutations-with-concat-slice-and-spread
 
 ###### Before app:
 * *Pure functions*: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
