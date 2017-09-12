@@ -32,8 +32,8 @@ _The guide is created in order of better understanding of underlying structure a
 
 ###### After app: 
 
-** Small explanation* https://github.com/reactjs/redux/issues/1171
-**Some docs on redux (rus)* https://github.com/rajdee/redux-in-russian/tree/master/docs/api
+* *Small explanation* https://github.com/reactjs/redux/issues/1171
+* *Some docs on redux (rus)* https://github.com/rajdee/redux-in-russian/tree/master/docs/api
 
 
 ###### Useful extensions:
