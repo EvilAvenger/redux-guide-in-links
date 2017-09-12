@@ -8,7 +8,7 @@ _The guide is created in order of better understanding of underlying structure a
 * *Redux official video*: https://egghead.io/courses/getting-started-with-redux
 * *Redux extended video course*: https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 
-###### Typescript advanced features and other nuances to use:
+###### Typescript/JS advanced features:
 
 * *Actions in Redux*: https://www.typescriptlang.org/docs/handbook/advanced-types.html#discriminated-unions
 * *Deep freeze*: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze
@@ -17,7 +17,7 @@ _The guide is created in order of better understanding of underlying structure a
 
 ###### Before app:
 * *Pure functions*: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
-* *Redux*: https://habrahabr.ru/post/269831/
+* *Redux (rus)*: https://habrahabr.ru/post/269831/
 
 ###### At the same time with app:
 
@@ -32,8 +32,8 @@ _The guide is created in order of better understanding of underlying structure a
 
 ###### After app: 
 
-* https://github.com/reactjs/redux/issues/1171
-* https://github.com/rajdee/redux-in-russian/tree/master/docs/api
+** Small explanation* https://github.com/reactjs/redux/issues/1171
+**Some docs on redux (rus)* https://github.com/rajdee/redux-in-russian/tree/master/docs/api
 
 
 ###### Useful extensions:
